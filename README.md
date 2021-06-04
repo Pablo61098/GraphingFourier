@@ -17,3 +17,5 @@ The result is an iterative ouput of graphs, like this:
 ![Screenshot_20210604_092629](https://user-images.githubusercontent.com/37944675/120817043-f547ae00-c516-11eb-8721-53980b5b4d6b.png)
 
 ![Screenshot_20210604_092806](https://user-images.githubusercontent.com/37944675/120817263-2f18b480-c517-11eb-945d-86499dc96bb0.png)
+
+The rest of files are modules used by the main script. And "Graphing_Fourier.py" is an experimentation still in development.
