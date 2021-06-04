@@ -9,3 +9,5 @@ Always use "x" to indicate independent variable.
 To indicate powers you can use conventional notations like "x^2".
 
 To indicate π, you should use "pi".
+
+To indicate factors like 2x^2, you should iput 2*x^2.
