@@ -1,5 +1,5 @@
 <h1>GraphingFourier</h1>
-Python Code that allows you to  graph the iterations of <b>Fourier transforms</b>
+Python Code that allows you to  graph the iterations of <b>Fourier transforms</b>.
 
 
 To use this code, the main python script is "LINEALES - FourierSeries.py", run it and follow each step indicated as a prompt. 
